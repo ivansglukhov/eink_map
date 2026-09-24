@@ -1,0 +1,10 @@
+.pio/
+.vscode/
+offline_map/
+offline_map.rar
+secrets.h
+*.bin
+*.elf
+*.map
+serial-log.txt
+build-log.txt
