@@ -1,5 +1,6 @@
 .pio/
 .vscode/
+offline_map.ino.cpp
 offline_map/
 offline_map.rar
 secrets.h
